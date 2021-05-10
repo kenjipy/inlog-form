@@ -1,0 +1,1 @@
+run this as a query in your database you need a tabbel named user 
