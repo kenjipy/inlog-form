@@ -1,5 +1,6 @@
 <?php
-
+// if jou have a db already put the name in $dbname
+// if db hase pass put it in $dbpass
 $dbhost = "localhost";
 $dbuser = "root";
 $dbpass = "";
